@@ -1,0 +1,52 @@
+ .header{
+ text-align:center;
+ font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Teko', sans-serif;
+ }
+ .container{
+    text-align:center;
+ }
+ input{
+     width:250px;
+     height:50px;
+     margin:5px;
+     border:5px green groove;
+ }
+ .calculate{
+     width:90px;
+     height:60px;
+     margin-left:75px;
+     margin-top:5px;
+     color: red;
+     background-color:yellow;
+     border:3px green groove;
+     font-family: 'Permanent Marker', cursive;
+ }
+.final{
+     border:4px dotted red;
+     display:none;
+     text-align:center;
+     padding: 10px;
+     font-family: 'Mali', cursive;
+     font-family: 'Acme', sans-serif;
+ }
+ h3{
+     font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+ }
+ input[placeholder]{
+     font-family: 'Amatic SC', cursive;
+ }
+ body{
+  background-color:#eaf;   
+ }
+ ::placeholder {
+  color:red;
+  font-size: 1.5em;
+}
+img{
+    display:none;
+    width:250px;
+    height:250px;
+    text-align:center;
+    margin-left:65px;}
